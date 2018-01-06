@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Feature images
+title: Hello World
 feature-img: "assets/img/sample_feature_img.png"
 ---
 
